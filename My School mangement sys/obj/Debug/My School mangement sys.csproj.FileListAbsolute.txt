@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\bin\Debug\My School mangement sys.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\bin\Debug\My School mangement sys.exe
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\bin\Debug\My School mangement sys.pdb
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My School mangement sys.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.Welcome_Screen.resources
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My School mangement sys.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My School mangement sys.exe
+c:\users\asus\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My School mangement sys.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\bin\Debug\SchoolDB.mdf
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\bin\Debug\SchoolDB_log.ldf
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.School_Main3.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.Teacher.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.studentDetails.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.Students.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School mangement sys\My School mangement sys\obj\Debug\My_School_mangement_sys.TeacherDetails.resources
